@@ -80,7 +80,6 @@ BASE_URL: https://stentzlersupportservice.onrender.com
 - GET /api/tickets/:ticket_id
 - Token required
 - No body request
--
 
 ### 2.0.4 - Update_Ticket
 
